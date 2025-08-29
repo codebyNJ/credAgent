@@ -49,7 +49,7 @@ export function IntroScreen({ onComplete }: IntroScreenProps) {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.8, duration: 0.8 }}
             >
-              India's first <em className="text-amber-300/80">Agentic</em> credit intelligence
+              <em className="text-amber-300/80">Agentic</em> credit intelligence for India
             </motion.span>
           </h1>
         </motion.div>
